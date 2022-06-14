@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jakub Dreczkowski, I'm 16 yo
+- 👋 Hi, I’m Jakub Dreczkowski, I'm 17 yo
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning every interesting web techonology.
 - 📫 How to reach me: https://twitter.com/just__jakub
